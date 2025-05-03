@@ -33,3 +33,9 @@ decimal sophiaScore = (decimal) sophiaSum / currentAssignments;
 decimal nicolasScore = (decimal) nicolasSum / currentAssignments;
 decimal zahirahScore = (decimal) zahirahSum / currentAssignments;
 decimal jeongScore = (decimal) jeongSum / currentAssignments;
+
+Console.WriteLine("Student\t\tGrade\n");
+Console.WriteLine("Sophia:\t\t" + sophiaScore + "\tA");
+Console.WriteLine("Nicolas:\t" + nicolasScore + "\tB");
+Console.WriteLine("Zahirah:\t" + zahirahScore + "\tB");
+Console.WriteLine("Jeong:\t\t" + jeongScore + "\tA");
