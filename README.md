@@ -1,2 +1,2 @@
-# c--guided-project-1
+# C# guided project 1
 Microsoft Learn C# Guided Project
